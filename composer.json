@@ -1,15 +1,15 @@
 {
-    "name": "jhnbrn90/socialite-passport",
+    "name": "rafaello104/socialite-passport",
     "description": "Easy socialite authentication using Laravel passport identity provider.",
     "keywords": [
-        "jhnbrn90",
+        "rafaello104",
         "socialite",
         "passport",
         "multi-authentication",
         "single sign on",
         "SSO"
     ],
-    "homepage": "https://github.com/jhnbrn90/socialite-passport",
+    "homepage": "https://github.com/rafaello104/socialite-passport",
     "license": "MIT",
     "type": "library",
     "authors": [
